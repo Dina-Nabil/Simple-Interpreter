@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528865042 source:c:\dina\github\simple-interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
